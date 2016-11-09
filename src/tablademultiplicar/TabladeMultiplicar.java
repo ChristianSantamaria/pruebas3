@@ -29,9 +29,7 @@ public class TabladeMultiplicar {
                 else
                     System.out.println("No es valido");
         }
-        
-        
-        
+
         
         
         
