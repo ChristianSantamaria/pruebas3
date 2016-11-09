@@ -35,6 +35,12 @@ public class TabladeMultiplicar {
         
         
         
+        
+        
+        
+        
+        
+        
         while(numeros >= 0);
 
         }
